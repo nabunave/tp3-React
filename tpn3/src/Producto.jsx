@@ -16,6 +16,7 @@ class producto extends Component {
             <Sku />
             <Cantidad />
             <Boton />
+            <Otro />
         </div>
     }
 }
